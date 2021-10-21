@@ -21,8 +21,3 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := SM6250
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="miatoll-user 11 RKQ1.200826.002 V12.0.4.0.RJWMIXM release-keys"
-
-BUILD_FINGERPRINT := Redmi/miatoll_global/miatoll:11/RKQ1.200826.002/V12.0.4.0.RJWMIXM:user/release-keys
